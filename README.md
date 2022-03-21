@@ -26,7 +26,7 @@ The LaTeX Basics - Lunch Session is intended for students who have no previous e
 
 ## LaTeX Tutorials
 
-Below are some links to LaTeX tutorials that I can recommend.
+Below some links to LaTeX tutorials I recommend.
 
 	• https://www.youtube.com/watch?v=y8y_KIs9JLs (LaTeX mit Overleaf)
 	• https://www.youtube.com/watch?v=Jp0lPj2-DQA (LaTeX mit Overleaf)
