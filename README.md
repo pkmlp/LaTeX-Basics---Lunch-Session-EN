@@ -5,7 +5,7 @@ This repository contains the sample files used in the LaTeX Basics - Lunch Sessi
 
 Usually, texts are created with a word processing package (OpenOffice, LibreOffice or Microsoft Office). However, for professional and/or very large documents (especially in the mathematical-technical area) the possibilities of such standard Office packages are not sufficient. LaTeX is a text typesetting system that meets these requirements. Those who are used to a word processor will find the introduction to LaTeX very hard to get used to. Creating documents with LaTeX is closer to programming with a page description language than to entering text with standard WYSIWYG office packages. In this basic session, a first overview of LaTeX, the features of LaTeX and the required components will be given. A first small LaTeX document will be created with the online LaTeX editor Overleaf (the easy to use, online, collaborative LaTeX editor).
 
-## Contents of the LaTeX Basics - Lunch Session 
+## Contents of the LaTeX Basics - Lunch Sessionn 
 
 - Differences between LaTeX and Word
 - What is needed to create LaTeX documents
